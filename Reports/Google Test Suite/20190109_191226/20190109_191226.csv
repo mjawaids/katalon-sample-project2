@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Google Test Suite,Chrome 71.0.3578.98,,2019-01-09 19:12:33,2019-01-09 19:12:42,9.385s,PASSED
+,,,,,,
+Test Cases/Google Test Case,Chrome 71.0.3578.98,,2019-01-09 19:12:33,2019-01-09 19:12:42,9.099s,PASSED
+"openBrowser("""")",Chrome 71.0.3578.98,,2019-01-09 19:12:33,2019-01-09 19:12:37,3.583s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 71.0.3578.98,,2019-01-09 19:12:37,2019-01-09 19:12:39,2.134s,PASSED
+"setText(findTestObject(""Page_Google/input_Sign in_q""), ""Pakistan"")",Chrome 71.0.3578.98,,2019-01-09 19:12:39,2019-01-09 19:12:39,0.180s,PASSED
+"sendKeys(findTestObject(""Page_Google/input_Sign in_q""), Keys.chord(ENTER))",Chrome 71.0.3578.98,,2019-01-09 19:12:39,2019-01-09 19:12:42,2.259s,PASSED
+closeBrowser(),Chrome 71.0.3578.98,,2019-01-09 19:12:42,2019-01-09 19:12:42,0.580s,PASSED
